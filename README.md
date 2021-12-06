@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DoMo-98
+- 👀 I’m interested in AI and hacking
+- 🌱 I’m currently studying on "42 Barcelona" campus
+- 💞️ I’m looking for people who wants start a project
+- 📫 You can reach me on my gmail "ericdominguezm@gmail.com"
