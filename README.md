@@ -26,7 +26,8 @@ I am a software developer with a passion for cutting-edge technologies and best 
 
 ### 🌱 Learning Focus
 
-- Scikit-learn
+- TensorFlow
+- PyTorch
 - Kubernetes
 - GitHub Actions
 - Azure
