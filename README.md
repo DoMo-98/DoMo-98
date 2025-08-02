@@ -8,8 +8,8 @@ I am a software developer with a passion for cutting-edge technologies and best 
 
 | Project       | Description                                                                 | Technologies                               |
 |---------------|-----------------------------------------------------------------------------|--------------------------------------------|
+| [TokioSchool](https://github.com/DoMo-98/TokioSchool) | Final projects of specialization in AI, ML and DL at TokioSchool. | Python, Numpy, Pandas, Scikit-learn, TensorFlow |
 | [chatBOT-GPT](https://github.com/DoMo-98/chatBOT-GPT) | A Telegram bot integrated with the OpenAI API. | Python, Docker, Azure VM                   |
-| [TokioSchool](https://github.com/DoMo-98/TokioSchool) | Final projects of specialization in AI, ML and DL at TokioSchool. | Python, Numpy, Pandas, Scikit-learn        |
 | [AILab](https://github.com/DoMo-98/ailab) | A microblogging platform inspired by X (formerly Twitter). | Python, FastAPI, Next.js, Docker, Kubernetes |
 
 
@@ -35,5 +35,5 @@ I am a software developer with a passion for cutting-edge technologies and best 
 ### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-dominguez-morales)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ericdominguezm@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dominguezmoraleseric.com)
 
