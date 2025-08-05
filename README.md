@@ -10,7 +10,7 @@ I am a software developer with a passion for cutting-edge technologies and best 
 |---------------|-----------------------------------------------------------------------------|--------------------------------------------|
 | [TokioSchool](https://github.com/DoMo-98/TokioSchool) | Final projects of specialization in AI, ML and DL at TokioSchool. | Python, Numpy, Pandas, Scikit-learn, TensorFlow |
 | [chatBOT-GPT](https://github.com/DoMo-98/chatBOT-GPT) | A Telegram bot integrated with the OpenAI API. | Python, Docker, Azure VM                   |
-| [AILab](https://github.com/DoMo-98/ailab) | A microblogging platform inspired by X (formerly Twitter). | Python, FastAPI, Next.js, Docker, Kubernetes |
+<!-- | [AILab](https://github.com/DoMo-98/ailab) | A microblogging platform inspired by X (formerly Twitter). | Python, FastAPI, Next.js, Docker, Kubernetes | -->
 
 
 ### 💻 Core Technologies
