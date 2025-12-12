@@ -14,9 +14,9 @@ I am a software developer with a passion for cutting-edge technologies and best 
 
 
 ### 💻 Core Technologies
-
+<!-- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoMo-98&layout=compact&hide=jupyter%20notebook)
-
+ -->
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
@@ -26,14 +26,12 @@ I am a software developer with a passion for cutting-edge technologies and best 
 
 ### 🌱 Learning Focus
 
-- TensorFlow
-- PyTorch
-- Kubernetes
-- GitHub Actions
-- Azure
+- Modern deep learning architectures
+- TensorFlow & PyTorch ecosystem
+- Azure ML and MLOps tooling
 
 ### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-dominguez-morales)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dominguezmoraleseric.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dominguezmoraleseric@gmail.com)
 
