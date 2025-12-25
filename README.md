@@ -4,7 +4,7 @@
 
 I am a software developer with a passion for cutting-edge technologies and best practices. With experience in languages like Java, C, and Python, I have specialized in developing microservices with Python (FastAPI) and Docker. Currently, I am deeply involved in artificial intelligence while also expanding my knowledge in DevOps, infrastructure, and software architecture. My future goal is to contribute to the research and development of new AI and deep learning architectures.
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project       | Description                                                                 | Technologies                               |
 |---------------|-----------------------------------------------------------------------------|--------------------------------------------|
@@ -13,7 +13,7 @@ I am a software developer with a passion for cutting-edge technologies and best 
 <!-- | [AILab](https://github.com/DoMo-98/ailab) | A microblogging platform inspired by X (formerly Twitter). | Python, FastAPI, Next.js, Docker, Kubernetes | -->
 
 
-### 💻 Core Technologies
+### Core Technologies
 <!-- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoMo-98&layout=compact&hide=jupyter%20notebook)
  -->
@@ -24,13 +24,13 @@ I am a software developer with a passion for cutting-edge technologies and best 
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 
-### 🌱 Learning Focus
+### Learning Focus
 
 - Modern deep learning architectures
 - TensorFlow & PyTorch ecosystem
 - Azure ML and MLOps tooling
 
-### 📫 Contact
+### Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-dominguez-morales)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dominguezmoraleseric@gmail.com)
