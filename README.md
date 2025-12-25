@@ -1,37 +1,33 @@
 # Éric Domínguez Morales
 
-## Software Developer | Technology Enthusiast
+## Software Engineer | Data Scientist
 
-I am a software developer with a passion for cutting-edge technologies and best practices. With experience in languages like Java, C, and Python, I have specialized in developing microservices with Python (FastAPI) and Docker. Currently, I am deeply involved in artificial intelligence while also expanding my knowledge in DevOps, infrastructure, and software architecture. My future goal is to contribute to the research and development of new AI and deep learning architectures.
+Software Engineer with a strong background in microservices and infrastructure. I am currently directing my career towards Artificial Intelligence, dedicated to building a rigorous understanding of Deep Learning mechanics and memory architectures. My goal is to experiment with custom architectural concepts and develop models that deliver tangible real-world value.
 
 ### Featured Projects
 
-| Project       | Description                                                                 | Technologies                               |
-|---------------|-----------------------------------------------------------------------------|--------------------------------------------|
-| [TokioSchool](https://github.com/DoMo-98/TokioSchool) | Final projects of specialization in AI, ML and DL at TokioSchool. | Python, Numpy, Pandas, Scikit-learn, TensorFlow |
-| [chatBOT-GPT](https://github.com/DoMo-98/chatBOT-GPT) | A Telegram bot integrated with the OpenAI API. | Python, Docker, Azure VM                   |
-<!-- | [AILab](https://github.com/DoMo-98/ailab) | A microblogging platform inspired by X (formerly Twitter). | Python, FastAPI, Next.js, Docker, Kubernetes | -->
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| [**dl-playground**](https://github.com/DoMo-98/dl-playground) | **Current Focus.** Personal laboratory for replicating and analyzing neural network architectures to build intuition on model internals. | PyTorch, NumPy, uv |
+| [**chatBOT-GPT**](https://github.com/DoMo-98/chatBOT-GPT) | Integration of OpenAI API into a Telegram bot, focusing on deployment and containerization. | Python, Docker, Azure VM |
+| [**TokioSchool**](https://github.com/DoMo-98/TokioSchool) | Implementation of standard ML/DL algorithms and neural networks during specialization studies. | TensorFlow, Scikit-learn, Pandas |
 
+### Technical Stack
 
-### Core Technologies
-<!-- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoMo-98&layout=compact&hide=jupyter%20notebook)
- -->
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-### Learning Focus
+### Focus Areas
 
-- Modern deep learning architectures
-- TensorFlow & PyTorch ecosystem
-- Azure ML and MLOps tooling
+- **Research:** Modern deep learning architectures.
+- **Ecosystem:** TensorFlow & PyTorch.
+- **Infrastructure:** Azure ML and MLOps tooling.
 
 ### Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-dominguez-morales)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dominguezmoraleseric@gmail.com)
-
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dominguezmoraleseric@gmail.com)
