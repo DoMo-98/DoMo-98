@@ -9,8 +9,8 @@ Software Engineer with a strong background in microservices and infrastructure. 
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
 | [**dl-playground**](https://github.com/DoMo-98/dl-playground) | **Current Focus.** Personal laboratory for replicating and analyzing neural network architectures to build intuition on model internals. | PyTorch, NumPy, uv |
-| [**chatBOT-GPT**](https://github.com/DoMo-98/chatBOT-GPT) | Integration of OpenAI API into a Telegram bot, focusing on deployment and containerization. | Python, Docker, Azure VM |
 | [**TokioSchool**](https://github.com/DoMo-98/TokioSchool) | Implementation of standard ML/DL algorithms and neural networks during specialization studies. | TensorFlow, Scikit-learn, Pandas |
+| [**chatBOT-GPT**](https://github.com/DoMo-98/chatBOT-GPT) | Integration of OpenAI API into a Telegram bot, focusing on deployment and containerization. | Python, Docker, Azure VM |
 
 ### Technical Stack
 
