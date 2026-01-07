@@ -10,6 +10,7 @@ Software Engineer with a strong background in microservices and infrastructure. 
 | :--- | :--- | :--- |
 | [**imdb50k-sentiment-transformer**](https://github.com/DoMo-98/imdb50k-sentiment-transformer) | Custom Transformer architecture for sentiment analysis on IMDb movie reviews. Includes a detailed 6-week research diary and containerized FastAPI serving. | TensorFlow, FastAPI, Docker |
 | [**dl-playground**](https://github.com/DoMo-98/dl-playground) | Personal laboratory for replicating and analyzing neural network architectures to build intuition on model internals. | PyTorch, NumPy, uv |
+| [**chess-llm-lab**](https://github.com/DoMo-98/chess-llm-lab) | Interactive chess sandbox to play against LLMs and review the explanation behind each move. | Angular, FastAPI, Docker |
 | [**chatBOT-GPT**](https://github.com/DoMo-98/chatBOT-GPT) | Integration of OpenAI API into a Telegram bot, focusing on deployment and containerization. | Python, Docker, Azure VM |
 
 ### Technical Stack
